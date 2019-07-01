@@ -14,7 +14,8 @@ Things left to still do:
 
 New Things left to still do:
 
-1) Write a python script for automatic runing and output scrubbing
+1) Thoroughly test the modulated therm_eos program
+2) Write a python script for automatic runing and output scrubbing
 
 
 
