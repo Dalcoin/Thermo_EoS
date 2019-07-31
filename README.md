@@ -43,7 +43,9 @@ mu_modul: contains programs which compute and formate the chemical potential as
 
 
 
+Things to do:
 
+Add DBHF options
 
 
 
